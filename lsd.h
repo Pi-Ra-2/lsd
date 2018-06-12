@@ -7,7 +7,6 @@
 #define VERSION "1.10"
 #define AUTHOR "A.Jimenez"
 #define LSD_REPO "https://github.com/aljito/lsd"
-#define LSD_URL "www.corax.com"
 #define RELEASE_DATE "2018"
 
 
