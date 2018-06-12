@@ -1,5 +1,5 @@
-lsd: decdump.c errors.o help.o
-	gcc -Wall -g -o lsd decdump.c errors.o help.o
+lsd: lsd.c errors.o help.o
+	gcc -Wall -g -o lsd lsd.c errors.o help.o
 
 errors.o: errors.c errors.h
 	gcc -Wall -g -c errors.h errors.c

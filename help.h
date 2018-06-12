@@ -1,2 +1,2 @@
 void usage(char *pName);
-void printHelp(char *pName, float version, char *auth);
+void printHelp(char *pName);
